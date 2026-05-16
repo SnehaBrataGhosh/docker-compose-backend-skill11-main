@@ -1,1 +1,1 @@
-This project was for my ex.
+This project was for my example.
